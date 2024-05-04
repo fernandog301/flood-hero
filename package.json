@@ -9,8 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mapbox/search-js-react": "^1.0.0-beta.20",
     "@types/mapbox__mapbox-gl-geocoder": "^5.0.0",
     "mapbox-gl": "^3.3.0",
+    "mapbox-gl-style-switcher": "^1.0.11",
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18"
